@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <div>
-      <b>Anthony - UTAS IT Lecturer</b>
+      <b>Anthony - IT Lecturer</b>
     </div>
   );
 };
